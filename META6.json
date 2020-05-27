@@ -1,0 +1,19 @@
+{
+  "name": "MVMbc",
+  "description": "reads MVM bytecode",
+  "version": "0.1",
+  "perl": "6.*",
+  "auth": "Write me!",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "MVMbc::MVMbc": "lib/MVMbc/MVMbc.pm6",
+    "MVMbc::Opcodes": "lib/MVMbc/opcodes.pm6",
+    "MVMbc::Frame": "lib/MVMbc/frame.pm6",
+    "MVMbc::Common": "lib/MVMbc/common.pm6"
+  },
+  "resources": [],
+  "license": "Write me!",
+  "source-url": "Write me!"
+}
